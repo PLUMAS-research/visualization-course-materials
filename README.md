@@ -3,4 +3,4 @@
 
 Aquí publicaré los materiales del curso en formato notebook.
 
-Se requiere instalar el módulo [`chiricoca`](github.com/PLUMAS-research/chiricoca).
+Se requiere instalar el módulo [`chiricoca`](https://github.com/PLUMAS-research/chiricoca).
